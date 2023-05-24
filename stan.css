@@ -1,0 +1,83 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+.container{
+
+width: 80%;
+background-color:rgba(194, 203, 199, 0.3);
+margin: auto;
+border-radius: 20px;
+}
+
+.heading{
+
+    font-family: 'Lobster', cursive;
+    }
+
+#title{
+   font-size: 90px; 
+   text-align: center;
+}
+
+#span1{
+    color: red;
+}
+
+#img-div{
+
+    text-align: center;
+}
+
+#image{
+    width: 600px;
+    border-radius: 20px;
+}
+
+#info{
+    width: 80%;
+   margin: 20px auto;
+   text-align: justify; 
+   font-size: 20px;
+   
+}
+
+#marvel{
+
+    color: crimson;
+    margin-left: 120px;
+    font-size: 30px;
+}
+
+ul{
+
+    width: 80%;
+    margin:auto;
+
+
+    }
+
+li{
+    font-size: 20px;
+    line-height: 50px;
+
+}
+#footer{
+
+    margin-left: 80px;
+    padding: 40px;
+    font-size: 26px;
+    /*text-align: center;*/
+
+
+}
+
+#link{
+    text-decoration: none;
+    border: 1px solid orange;
+    padding: 30px;
+    border-radius: 10px;
+    background-color: black;
+    color: aquamarine;
+}
